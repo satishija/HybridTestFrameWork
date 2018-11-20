@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.uiAutomatiom.testScript.Test1">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="testLogin2"/>
+          <include name="beforeSuite"/>
+          <include name="testLogin3"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.Test1 -->
+      <class name="com.uiAutomatiom.testScript.Test2">
+        <methods>
+          <include name="testLogin24"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="testLogin23"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.Test2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

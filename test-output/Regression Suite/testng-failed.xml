@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <listeners>
+    <listener class-name="com.uiAutomatiom.helper.listener.RetryListener"/>
+  </listeners>
+  <test name="Second test(failed)">
+    <classes>
+      <class name="com.uiAutomatiom.B">
+        <methods>
+          <include name="Test1B"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.B -->
+    </classes>
+  </test> <!-- Second test(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

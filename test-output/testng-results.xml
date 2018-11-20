@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49530" started-at="2018-11-19T07:13:21Z" finished-at="2018-11-19T07:14:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49530" started-at="2018-11-19T07:13:21Z" finished-at="2018-11-19T07:14:10Z">
+      <class name="com.uiAutomatiom.testScript.LoginTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.uiAutomatiom.testScript.LoginTest@71318ec4]" name="beforeSuite" is-config="true" duration-ms="489" started-at="2018-11-19T12:43:20Z" finished-at="2018-11-19T12:43:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.uiAutomatiom.testScript.LoginTest@71318ec4]" name="beforeTest" is-config="true" duration-ms="7770" started-at="2018-11-19T12:43:21Z" finished-at="2018-11-19T12:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.uiAutomatiom.testScript.LoginTest@71318ec4]" name="beforeClass" is-config="true" duration-ms="7" started-at="2018-11-19T12:43:29Z" finished-at="2018-11-19T12:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uiAutomatiom.testScript.LoginTest@71318ec4]" name="beforeMethod" is-config="true" duration-ms="21" started-at="2018-11-19T12:43:29Z" finished-at="2018-11-19T12:43:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uiAutomatiom.testScript.LoginTest.LoginTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.uiAutomatiom.testScript.LoginTest@71318ec4]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-11-19T12:43:29Z" finished-at="2018-11-19T12:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.uiAutomatiom.testScript.LoginTest@71318ec4]" name="LoginTest" duration-ms="38781" started-at="2018-11-19T12:43:29Z" description="Login test" finished-at="2018-11-19T12:44:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uiAutomatiom.testScript.LoginTest@71318ec4]" name="afterMethod" is-config="true" duration-ms="1138" started-at="2018-11-19T12:44:07Z" finished-at="2018-11-19T12:44:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginTest status=SUCCESS method=LoginTest.LoginTest()[pri:0, instance:com.uiAutomatiom.testScript.LoginTest@71318ec4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.uiAutomatiom.testScript.LoginTest@71318ec4]" name="afterTest" is-config="true" duration-ms="1770" started-at="2018-11-19T12:44:09Z" finished-at="2018-11-19T12:44:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.uiAutomatiom.testScript.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

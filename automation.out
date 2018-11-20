@@ -1,0 +1,6 @@
+2018-11-19 12:43:27 INFO  TestBase:129 - Initiaization of driver 1621002296
+2018-11-19 12:43:27 INFO  WaitHelper:41 - implicit wait set to 20
+2018-11-19 12:43:27 INFO  WaitHelper:53 - Page load time out value is set to 50
+2018-11-19 12:43:27 INFO  WaitHelper:55 - page is loaded 
+2018-11-19 12:44:07 INFO  WaitHelper:53 - Page load time out value is set to 50
+2018-11-19 12:44:07 INFO  WaitHelper:55 - page is loaded 
